@@ -1,7 +1,6 @@
-SHIT YA GUTS WEBSITE
+SHIT YA GUTS WEBSITE — CHRISTMAS UPDATE
 
-Extract this ZIP, then open index.html in your browser.
-The HTML, CSS, JavaScript and all 25 product images are included.
-You can edit the files or upload this folder to a static web host.
-An internet connection is needed for the Google Fonts; fallback fonts work offline.
-No installation or build step is required.
+Extract the ZIP and open index.html in your browser.
+Includes the original 25 products and 8 Christmas products.
+Upload the extracted website folder to any static web host to publish.
+No build step or installation required. Google Fonts require internet; fallback fonts work offline.
